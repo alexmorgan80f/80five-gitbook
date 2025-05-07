@@ -20,18 +20,18 @@ layout:
 
 # Welcome
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+80five creates unforgettable websites for small and growing businesses. Use the links below to help navigate to the section of our knowledgebase that you want to learn more about.
 
 {% content-ref url="general.md" %}
 [general.md](general.md)
 {% endcontent-ref %}
 
-{% content-ref url="hosting-maintenance.md" %}
-[hosting-maintenance.md](hosting-maintenance.md)
-{% endcontent-ref %}
-
 {% content-ref url="framer-web-design.md" %}
 [framer-web-design.md](framer-web-design.md)
+{% endcontent-ref %}
+
+{% content-ref url="hosting-maintenance.md" %}
+[hosting-maintenance.md](hosting-maintenance.md)
 {% endcontent-ref %}
 
 {% content-ref url="website-monitoring.md" %}
