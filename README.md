@@ -26,8 +26,8 @@ layout:
 [general.md](general.md)
 {% endcontent-ref %}
 
-{% content-ref url="framer-web-design.md" %}
-[framer-web-design.md](framer-web-design.md)
+{% content-ref url="framer-web-design/" %}
+[framer-web-design](framer-web-design/)
 {% endcontent-ref %}
 
 {% content-ref url="hosting-maintenance.md" %}
