@@ -22,30 +22,30 @@ layout:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{% content-ref url="knowledgebase/general.md" %}
-[general.md](knowledgebase/general.md)
+{% content-ref url="general.md" %}
+[general.md](general.md)
 {% endcontent-ref %}
 
-{% content-ref url="knowledgebase/hosting-maintenance.md" %}
-[hosting-maintenance.md](knowledgebase/hosting-maintenance.md)
+{% content-ref url="hosting-maintenance.md" %}
+[hosting-maintenance.md](hosting-maintenance.md)
 {% endcontent-ref %}
 
-{% content-ref url="knowledgebase/framer-web-design.md" %}
-[framer-web-design.md](knowledgebase/framer-web-design.md)
+{% content-ref url="framer-web-design.md" %}
+[framer-web-design.md](framer-web-design.md)
 {% endcontent-ref %}
 
-{% content-ref url="knowledgebase/website-monitoring.md" %}
-[website-monitoring.md](knowledgebase/website-monitoring.md)
+{% content-ref url="website-monitoring.md" %}
+[website-monitoring.md](website-monitoring.md)
 {% endcontent-ref %}
 
-{% content-ref url="knowledgebase/working-with-us.md" %}
-[working-with-us.md](knowledgebase/working-with-us.md)
+{% content-ref url="working-with-us.md" %}
+[working-with-us.md](working-with-us.md)
 {% endcontent-ref %}
 
-{% content-ref url="knowledgebase/troubleshooting.md" %}
-[troubleshooting.md](knowledgebase/troubleshooting.md)
+{% content-ref url="troubleshooting.md" %}
+[troubleshooting.md](troubleshooting.md)
 {% endcontent-ref %}
 
-{% content-ref url="knowledgebase/additional-resources.md" %}
-[additional-resources.md](knowledgebase/additional-resources.md)
+{% content-ref url="additional-resources.md" %}
+[additional-resources.md](additional-resources.md)
 {% endcontent-ref %}
