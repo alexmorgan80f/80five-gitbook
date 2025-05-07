@@ -20,10 +20,32 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+{% content-ref url="knowledgebase/general.md" %}
+[general.md](knowledgebase/general.md)
+{% endcontent-ref %}
 
-### Jump right in
+{% content-ref url="knowledgebase/hosting-maintenance.md" %}
+[hosting-maintenance.md](knowledgebase/hosting-maintenance.md)
+{% endcontent-ref %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+{% content-ref url="knowledgebase/framer-web-design.md" %}
+[framer-web-design.md](knowledgebase/framer-web-design.md)
+{% endcontent-ref %}
+
+{% content-ref url="knowledgebase/website-monitoring.md" %}
+[website-monitoring.md](knowledgebase/website-monitoring.md)
+{% endcontent-ref %}
+
+{% content-ref url="knowledgebase/working-with-us.md" %}
+[working-with-us.md](knowledgebase/working-with-us.md)
+{% endcontent-ref %}
+
+{% content-ref url="knowledgebase/troubleshooting.md" %}
+[troubleshooting.md](knowledgebase/troubleshooting.md)
+{% endcontent-ref %}
+
+{% content-ref url="knowledgebase/additional-resources.md" %}
+[additional-resources.md](knowledgebase/additional-resources.md)
+{% endcontent-ref %}

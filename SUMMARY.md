@@ -2,16 +2,12 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Knowledgebase
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [General](knowledgebase/general.md)
+* [Framer Web Design](knowledgebase/framer-web-design.md)
+* [Hosting & Maintenance](knowledgebase/hosting-maintenance.md)
+* [Website Monitoring](knowledgebase/website-monitoring.md)
+* [Working With Us](knowledgebase/working-with-us.md)
+* [Troubleshooting](knowledgebase/troubleshooting.md)
+* [Additional Resources](knowledgebase/additional-resources.md)
