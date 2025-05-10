@@ -6,7 +6,7 @@ icon: house-chimney-medical
 
 ### What is 80five?
 
-80five is a web agency that aims to provide unforgettable websites for small and growing businesses. Alongside the core web design service, we also provide website hosting and maintenance as well as website monitoring via our [UpWatch](https://www.upwatch.co.uk/) brand.
+[80five](https://www.80five.co.uk/) is a web agency that aims to provide unforgettable websites for small and growing businesses. Alongside the core [web design](https://www.80five.co.uk/services/website-design) service, we also provide website [hosting and maintenance](https://www.80five.co.uk/services/hosting-maintenance) as well as [website monitoring](https://www.80five.co.uk/services/website-monitoring) via our [UpWatch](https://www.upwatch.co.uk/) brand.
 
 ### Who do we work with?
 

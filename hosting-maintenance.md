@@ -10,7 +10,7 @@ The websites we build with Framer are hosted through Framer. They use Amazon Web
 
 ### What’s included in your maintenance?
 
-Our maintenance package covers 10 core services. This includes site health checks, SEO and performance tweaks, looking for broken links, accessibility issues and security vulnerabilities. You can find out more about it in our [blog post](https://www.80five.co.uk/news/10-essential-website-maintenance-services-every-business-needs) or by downloading our [free ebook](https://www.80five.co.uk/ebooks).
+Our [maintenance](https://www.80five.co.uk/services/hosting-maintenance) package covers 10 core services. This includes site health checks, SEO and performance tweaks, looking for broken links, accessibility issues and security vulnerabilities. You can find out more about it in our [blog post](https://www.80five.co.uk/news/10-essential-website-maintenance-services-every-business-needs) or by downloading our [free ebook](https://www.80five.co.uk/ebooks).
 
 We strongly recommend you include a website monitoring plan with [UpWatch](https://www.upwatch.co.uk/) as part of the website maintenance so that more data can be used to guide the ongoing maintenance.
 
@@ -26,7 +26,7 @@ Website backups are handled via Framer and their hosting service. We do also kee
 
 ### What happens if my site goes down?
 
-If you have added website monitoring via UpWatch, we will know as soon as there is an issue and we can usually resolve most issues without needing to inform you. Without UpWatch, you will need to purchase you own website monitoring and alert us if there is an issue.
+If you have added [website monitoring](https://www.80five.co.uk/services/website-monitoring) via UpWatch, we will know as soon as there is an issue and we can usually resolve most issues without needing to inform you. Without UpWatch, you will need to purchase you own website monitoring and alert us if there is an issue.
 
 ### Cancelling a hosting & maintenance plan
 

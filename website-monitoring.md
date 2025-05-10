@@ -6,7 +6,7 @@ icon: magnifying-glass
 
 ### What is UpWatch?
 
-[UpWatch](https://www.upwatch.co.uk/) is a website monitoring service that we own and operate as a standalone business. It's primary objective is to provide comprehensive website monitoring that ensures no website issue can go unnoticed.
+[UpWatch](https://www.upwatch.co.uk/) is a [website monitoring service](https://www.80five.co.uk/services/website-monitoring) that we own and operate as a standalone business. It's primary objective is to provide comprehensive website monitoring that ensures no website issue can go unnoticed.
 
 ### What types of monitoring are included?
 
@@ -38,7 +38,7 @@ Every website is charged the same flat rate per month. Additional websites can b
 
 There are three plans, Basic for £5 per month, Standard for £10 per month and Premium for £15 per month. You can read more about what each plan provides on the [Pricing](https://www.upwatch.co.uk/pricing) page of the UpWatch website.
 
-All payments are taken monthly via Stripe. However, if you are a hosting and maintenance client with 80five, the cost per month is added into your single hosting and maintenance monthly fee and charged as a direct debit via GoCardless.
+All payments are taken monthly via Stripe. However, if you are a [hosting and maintenance](https://www.80five.co.uk/services/hosting-maintenance) client with 80five, the cost per month is added into your single hosting and maintenance monthly fee and charged as a direct debit via GoCardless.
 
 ### How do you cancel a plan?
 
