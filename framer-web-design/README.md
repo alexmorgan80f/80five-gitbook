@@ -4,14 +4,16 @@ icon: browser
 
 # Framer Web Design
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We build high-quality websites using the [Framer](https://framer.link/acAPxe9) platform. All of the websites we build will work perfectly across any device type and will aim to do well with SEO. With Framer as the underlying platform, the websites we build will be really easy to edit and maintain.
+
+The process to get to an excellent Framer website takes time and collaboration. Follow the links below to find out more.
 
 {% content-ref url="initial-planning-and-discovery.md" %}
 [initial-planning-and-discovery.md](initial-planning-and-discovery.md)
 {% endcontent-ref %}
 
-{% content-ref url="during-the-website-build.md" %}
-[during-the-website-build.md](during-the-website-build.md)
+{% content-ref url="sitemap-and-wireframe.md" %}
+[sitemap-and-wireframe.md](sitemap-and-wireframe.md)
 {% endcontent-ref %}
 
 {% content-ref url="post-launch.md" %}
