@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Frame 117.svg
+cover: .gitbook/assets/Frame 124.svg
 coverY: 0
 layout:
   cover:
